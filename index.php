@@ -13,7 +13,7 @@
 
    
    
-   <form action="action.php" method="post">
+   <form action="" method="post">
  <p>Overskrift <input type="text" name="overskrift" /></p>
  <p>Indhold<input type="text" name="tekst" /></p>
  <p><input type="submit" /></p>
