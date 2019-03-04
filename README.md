@@ -1,6 +1,6 @@
 # hello-world
 First repository
 
-This is my first repository, and the first under GNU licence.
+For at se html sider som de rigtigt skal se ud skal der være https://htmlpreview.github.io/? i starten, når man kopierer linket ind.
 
-I will try to make edits and get them to the master.
+
